@@ -1,0 +1,17 @@
+#one{
+    color: aquamarine;
+}
+
+#end{
+    color: white;
+    font-size: 20px;
+}
+
+div{
+    color: chartreuse;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(17, 0, 49);
+}
